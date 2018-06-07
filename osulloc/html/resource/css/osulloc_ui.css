@@ -139,6 +139,9 @@ opacity: 1;
 -o-transform: translate3d(0, -45px, 0) scaleY(1);
 transform: translate3d(0, -45px, 0) scaleY(1); }
 
+/*season page*/
+.memory_in_jeju { background:url(../images/season_bg_01.png) center no-repeat; width: 100%; height: 100%;}
+
 @-webkit-keyframes packageAction {
     0%      { opacity: 0;
         -webkit-transform: translateY(-50%);
